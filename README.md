@@ -1,7 +1,8 @@
 - 👋 Hi, I’m Fernando Estevez
-- Im a Data Analyst who transitioned into the field from a non-technical background.
-- 👀 I’m interested in everthying that involve data.
-- 🌱 My specialties are Data Visualization, BI Development and Data translating. Specifically, I utilize Excel, SQL and Power BI
+- I am an independent data analyst with a strong background in finance and capital markets.
+-🌱 My expertise includes statistics, Excel, SQL, ETL and Power BI.
+- I have successfully transitioned my skills from financial analysis to data analytics. I am committed to continuous improvement and practical application of data analytics techniques.
+- 👀 My proactive learning approach and methodical problem-solving skills enable me to adapt and thrive in the ever-evolving field of data analytics.
 - 💞️ I’m looking to collaborate on any proyect that involves improving my skills
 - 📫 How to reach me fernando.estevez81@gmail.com
 
